@@ -1,4 +1,6 @@
 ﻿  nrRational.cpp
-c:\users\schwa\source\repos\nrrational\nrrational\nrrational.cpp(243): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\schwa\source\repos\nrrational\nrrational\nrrational.cpp(244): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\schwa\source\repos\nrrational\nrrational\nrrational.cpp(245): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\schwa\source\repos\nrrational\nrrational\nrrational.cpp(246): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\schwa\source\repos\nrrational\nrrational\nrrational.cpp(250): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\schwa\source\repos\nrrational\nrrational\nrrational.cpp(251): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   nrRational.vcxproj -> C:\Users\schwa\source\repos\nrRational\Debug\nrRational.exe
